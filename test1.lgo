@@ -1,2 +1,2 @@
 cs
-rt 30
+REPEAT 10 [ SQUARE REPCOUNT * 10 ]

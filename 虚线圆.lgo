@@ -1,1 +1,2 @@
 cs
+repeat 36 [arc 10 50 rt 20]
