@@ -1,0 +1,2 @@
+cs
+repeat 4 [fd 60 penup fd 60 pendown fd 60 rt 90]

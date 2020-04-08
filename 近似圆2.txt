@@ -1,0 +1,2 @@
+cs
+repeat 24 [fd 25 rt 15]

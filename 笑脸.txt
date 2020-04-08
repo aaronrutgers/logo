@@ -1,0 +1,24 @@
+cs
+arc 360 150
+penup
+fd 40
+lt 90
+fd 60
+pendown
+arc 360 30
+penup
+lt 180
+fd 120
+pendown
+arc 360 30
+lt 180
+penup
+fd 60
+lt 90
+fd 40
+pendown
+fd 40 
+lt 180
+fd 40
+rt 140
+arc 80 80

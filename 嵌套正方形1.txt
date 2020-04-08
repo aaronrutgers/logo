@@ -1,0 +1,11 @@
+cs
+repeat 4 [fd 60 rt 90 ]
+lt 180
+penup
+fd 60 
+rt 90
+fd 60
+pendown
+rt 90
+repeat 4 [fd 180 rt 90]
+

@@ -1,0 +1,30 @@
+cs
+fd 50
+rt 5
+fd 50
+rt 10
+fd 50
+rt 15
+fd 50
+rt 20
+fd 50
+rt 25
+fd 50
+rt 30
+fd 50
+rt 35
+fd 50
+rt 40
+fd 50
+rt 45
+fd 50
+rt 50
+fd 50
+rt 55
+fd 50
+rt 60
+fd 50
+
+
+
+
