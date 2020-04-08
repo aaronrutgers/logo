@@ -7,3 +7,14 @@ repeat 12 [
     rt 90
     rt 30
     ]
+
+cs
+repeat 12 [ 
+    ; rt 45
+    ; fd 56.56
+    ; lt 135
+    ; fd 40
+    ; rt 90
+    fd 40
+    rt 30
+    ]
