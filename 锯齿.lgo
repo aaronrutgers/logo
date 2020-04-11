@@ -6,6 +6,7 @@ repeat 12 [
     fd 40
     rt 90
     rt 30
+    
     ]
 
 cs
@@ -15,6 +16,14 @@ repeat 12 [
     ; lt 135
     ; fd 40
     ; rt 90
-    fd 40
+    ;fd 40
+    fd 10
+    pu
+    fd 10
+    pd 
+    fd 10
+    pu
+    fd 10
+    pd
     rt 30
     ]

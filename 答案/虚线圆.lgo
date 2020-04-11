@@ -11,3 +11,9 @@ repeat 36 [arc 10 100 rt 20]
 cs
 repeat 36 [fd 15 penup rt 10 fd 15 pendown]
 ;所以我们其实可以在一个文件里面保存几个方法，用回车隔开他们就可以。我们只需要选中相应的代码块再复制粘贴，就可以执行我们想要的方法。
+
+
+cs
+repeat 36 [fd 10 penup rt 10 fd 10 pendown]
+
+

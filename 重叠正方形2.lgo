@@ -1,0 +1,2 @@
+cs
+repeat 10 [fd 60 rt 90 fd 60 rt 90 fd 60 rt 90 fd 60 rt 90 rt 36 ]
