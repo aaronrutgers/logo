@@ -1,7 +1,12 @@
+to stamprect :edge :edge
+    repeat 4[fd :edge rt 90]
+end
+
 cs
 make "s 20
-repeat 6[pd stamprect :s :s \
+repeat 6[pd stamprect :s :s 
 pu bk 10 
 lt 90
-fd 10 rt 90 \
+fd 10 rt 90
 make "s :s+20]
+
