@@ -1,0 +1,6 @@
+cs
+make "r 1
+repeat 80[rt 5 
+fd 0.175*:r 
+rt 5
+ make "r :r+1] 

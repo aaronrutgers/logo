@@ -1,0 +1,4 @@
+cs
+repeat 5
+[fd 200 
+rt 144]

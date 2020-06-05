@@ -1,0 +1,38 @@
+cs
+to abc 
+repeat 3
+[fd 50
+ lt 90 
+ fd 50
+ rt 90]
+ end
+ abc
+
+
+ cs
+ rt 45
+ fd 100
+ rt 90
+ fd 150
+ penup
+ lt 180
+ fd 50
+ rt 90
+ fd 50
+ lt 180
+ pendown
+ fd 150
+ rt 90
+ fd 100
+ rt 135
+ penup
+ fd 50
+ pendown
+ arc 360 12
+
+ 
+ 
+
+
+
+ 

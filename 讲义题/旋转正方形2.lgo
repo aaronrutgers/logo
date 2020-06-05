@@ -1,0 +1,45 @@
+ cs
+ to abc1
+ repeat 10 
+ [repeat 4[
+ fd 80
+ rt 90 ] 
+ rt 36 ]
+ end
+ abc1 
+
+
+ cs
+ to abc2
+ repeat 36
+ [fd 25 
+ lt 10]
+ end
+ abc2
+
+ cs
+ to square
+ repeat 4[
+ repeat 4 [
+ fd 100
+ rt 90]
+ rt 90]
+ end
+ square
+ 
+ 
+ cs
+ to box
+ repeat 20
+ [repeat 2
+ [fd 100 
+ rt 90
+ fd 60
+ rt 90]
+ rt 18] 
+ end
+ box
+
+
+ 
+

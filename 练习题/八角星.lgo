@@ -1,0 +1,7 @@
+cs
+rt 45
+repeat 8
+[fd 60
+rt 90
+fd 60
+lt 45]

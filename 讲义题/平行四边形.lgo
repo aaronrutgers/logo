@@ -1,0 +1,42 @@
+ cs
+ to diamond
+ repeat 2
+ [fd 150
+ rt 45
+ fd 70
+ rt 135
+ ]
+ end
+ diamond
+ 
+
+ cs
+ to oblong
+ repeat 2
+ [fd 55
+ rt 90 
+ fd 30 
+ rt 90 ]
+ end
+ oblong
+
+ cs
+ to tirangle
+ repeat 3
+ [fd 100
+ lt 120]
+ end
+ tirangle
+
+
+ cs
+ to square
+ repeat 4 [
+ fd 100
+ rt 90 ] 
+ end
+ square
+
+
+
+

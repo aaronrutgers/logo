@@ -1,0 +1,4 @@
+cs
+repeat 9
+[fd 180
+rt 80]

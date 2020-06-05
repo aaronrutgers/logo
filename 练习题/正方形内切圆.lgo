@@ -1,0 +1,18 @@
+cs 
+repeat 4 [
+fd 160 rt 90]
+fd 80
+penup 
+rt 90
+fd 80 
+pendown 
+arc 360 80
+
+cs
+arc 360 100
+rt 90 penup
+bk 50 pendown
+arc 180 50
+penup fd 100
+rt 180 pendown
+arc 180 50

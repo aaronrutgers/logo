@@ -1,0 +1,19 @@
+cs 
+arc 360 50
+repeat 5[fd 5 penup fd 5 pendown]
+lt 135
+fd 70.7
+lt 135 
+repeat 10[fd 5 penup fd 5 pendown]
+lt 135
+fd 70.7
+lt 90
+fd 70.7
+lt 45
+fd 50
+lt 90 
+fd 100
+lt 90 
+fd 50
+
+print 50*50

@@ -1,0 +1,7 @@
+cs
+arc 360 80
+rt 90 
+pu fd 110
+pd arc 360 50
+pu bk 40
+pd fill

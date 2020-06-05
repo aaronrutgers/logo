@@ -1,0 +1,35 @@
+cs
+arc 10 100
+ rt 10
+arc 10 100
+ rt 10
+arc 10 100
+ rt 10
+arc 10 100
+ rt 20
+arc 10 100
+ rt 20
+arc 10 100
+ rt 20
+arc 10 100
+ rt 20
+
+repeat 36 [arc 10 100 rt 20]
+
+
+cs repeat 4 [ repeat 5 [
+    setwidth 1 fd 10 setwidth 3 fd 10]lt 90] rt 90 penup fd 71 lt 90 pendown repeat 8 [ repeat 5 [setwidth 1 fd 10 setwidth 3 fd 10 ] lt 45 ]
+
+
+;英文分号打头的每一行都是注释，计算机不会执行的，想写几行注释就必须在每行的开头打1个英文的分号，这样可以用来帮助我们理解代码，注意必须是英文的分号，不是中文的分号
+
+;所以本文件的第2行是画虚线圆的标准的方法，下面第12行又是另一种方法，这种方法就只能叫近似的虚线圆了
+cs
+repeat 36 [fd 15 penup rt 10 fd 15 pendown]
+;所以我们其实可以在一个文件里面保存几个方法，用回车隔开他们就可以。我们只需要选中相应的代码块再复制粘贴，就可以执行我们想要的方法。
+
+
+cs
+repeat 36 [fd 10 penup rt 10 fd 10 pendown]
+
+

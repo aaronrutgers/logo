@@ -1,0 +1,31 @@
+cs
+to pattern
+repeat 6 [sq_circ
+rt 60]
+end
+
+to sq_circ
+sq
+circ
+end
+
+to sq
+repeat 4[fd 70 rt 90]
+end
+
+to sq
+repeat 4[fd 35 rt 90 fd 35]
+end
+
+
+
+to circ
+repeat 36
+[fd 6 rt 10]
+end
+
+to circ
+repeat 36 [fd 3 rt 10 fd 3]
+end
+
+pattern

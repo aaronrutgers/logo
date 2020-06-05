@@ -1,0 +1,24 @@
+cs
+repeat 5
+[repeat 4
+[fd 80 rt 90]
+rt 72]
+
+
+cs
+repeat 8
+[repeat 4
+[fd 80
+rt 90]
+rt 45]
+
+
+cs
+repeat 6
+[fd 150 
+repeat 3
+[rt 90 
+fd 50]
+rt 90
+bk 100
+rt 60]

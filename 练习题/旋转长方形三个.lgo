@@ -1,0 +1,28 @@
+cs
+repeat 4
+[repeat 2
+[fd 100
+rt 90
+fd 40
+rt 90]
+rt 90]
+
+
+cs
+repeat 6
+[repeat 2
+[fd 100 
+rt 90 
+fd 40 
+rt 90]
+rt 60]
+
+cs 
+repeat 8
+[repeat 2
+[fd 100 
+rt 90
+fd 40
+rt 90]
+rt 45] 
+

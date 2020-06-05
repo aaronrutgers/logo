@@ -1,0 +1,8 @@
+cs
+rt 18
+repeat 5[arc 360 10
+fd 80
+arc 360 10
+rt 144
+fd 80 
+lt 72]

@@ -1,0 +1,7 @@
+cs
+rt 54
+repeat 10
+[fd 50
+rt 72
+fd 50
+lt 36]

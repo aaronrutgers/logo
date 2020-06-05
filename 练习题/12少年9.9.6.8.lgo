@@ -1,0 +1,5 @@
+cs
+arc 360 100
+repeat 4[pu fd 50 pd arc 360 50 pu bk 50 rt 90]
+rt 45
+repeat 4[pu fd 95 pd fill pu bk 95 rt 90]

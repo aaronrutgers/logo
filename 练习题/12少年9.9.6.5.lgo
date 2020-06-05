@@ -1,0 +1,11 @@
+cs 
+repeat 4[fd 100 rt 90]
+fd 50 
+lt 180
+arc 180 50
+repeat 2[fd 50 lt 90 
+fd 50 
+arc 180 50]
+
+
+print 100*100/2

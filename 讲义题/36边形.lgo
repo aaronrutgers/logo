@@ -1,0 +1,22 @@
+cs 
+repeat 36 [
+fd 10
+penup
+fd 10
+pendown
+fd 10
+penup
+fd 10
+pendown
+rt 10 
+]
+
+cs 
+repeat 36 [
+repeat 2[fd 10
+penup
+fd 10
+pendown ]
+rt 10 
+]
+

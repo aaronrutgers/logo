@@ -1,0 +1,12 @@
+cs
+repeat 4[fd 100 rt 90]
+repeat 4[repeat 18[rt 5 fd 0.175*50 rt 5]
+rt 90]
+pu fd 50
+rt 90 fd 50
+lt 45
+repeat 4[pu fd 10 pd fill
+pu bk 10
+rt 90]
+
+print 3.14*50*50*2-100*100

@@ -1,0 +1,5 @@
+cs
+make "s 25
+repeat 12[fd :s 
+lt 90
+make "s :s + 15]

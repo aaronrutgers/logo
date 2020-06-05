@@ -1,0 +1,11 @@
+cs
+rt 45
+repeat 3
+[repeat 4
+[fd 60 
+rt 90]
+rt 45 
+pu
+fd 60
+pd
+lt 45]

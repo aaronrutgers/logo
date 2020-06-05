@@ -1,0 +1,7 @@
+cs ht
+make "s 2
+repeat 100[pu bk :s/2 
+lt 90 fd :s/2 \
+pd stamprect :s :s 
+wart 50 cs 
+make "s :s+2]

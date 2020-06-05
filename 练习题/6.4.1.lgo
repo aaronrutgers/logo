@@ -1,0 +1,8 @@
+cs
+ repeat 4
+ [arc 90 80 
+ lt 90 penup 
+ fd 100 pendown 
+ arc 360 20
+  penup bk 100
+  pendown] 

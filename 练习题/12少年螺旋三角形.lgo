@@ -1,0 +1,4 @@
+cs
+make "s 20
+repeat 10[fd :s rt 120 
+make "s :s + 10]
